@@ -1,0 +1,62 @@
+You're jack, a pirate captain who lives on a ship along the Caribbean sea. Today, your ship gets boarded by a bunch of angry natives, armed with spears and poison darts. They have surrounded you and are getting ready to attack. In order to survive, you need to find a way to disarm them without provoking them further.
+
+> Luckily, you have foods and drink that can be offered to the natives to make peace.
+
+You decide to try offering the natives some food and drink. As you approach one of the warriors, you carefully extend your hand holding a plate with some fruit and a flask of alcohol. The native glares at you suspiciously, sizing up your intentions.
+
+> Suddenly, one of your crews shouts out that's my drink
+
+At this moment, another crew member jumps in and yells "No wait, that's mine!". Panic spreads among your crew as they all start arguing over who owns what food and drink. In the commotion, the angry natives become even more agitated, their spears and poison darts shaking menacingly.
+
+> you then declare this particular flask of alcohol is for the natives to have
+
+"Alright, alright," you say, trying to regain control of the situation. Pointing at the flask, you declare firmly, "This flask of alcohol is for the natives to have. Let us share it and try to make peace."
+The native looks skeptical, but the other crew members gradually quiet down at your words. Slowly, he reaches out and takes the flask from you. He nods once, signalling that he accepts your offer. Drinking deeply from the flask, he seems to relax a little. Another warrior steps forward, accepting a piece of fruit from your hand.
+
+> you then offer meat as well for them to enjoy with the drink
+
+As the atmosphere begins to thaw, you decide to push your luck by offering the natives some meat as well. Carefully, you place a slab of roasted pork on the plate and present it to the warriors. They exchange suspicious glances, but one of them eventually takes a tentative bite. His expression turns from wary to delighted as he savors the taste. Soon, all the natives are gathered around the plate, sharing the food and drink in companionable silence. The tension in the air slowly dissipates, and you breathe a sigh of relief.
+
+> you, your crew, and the natives continue to eat and drink, tell stories and jokes
+
+As everyone settles into a more convivial mood, you join in the feast yourself. You share stories of your adventures at sea with the natives, who seem fascinated by tales of treasure hunting and pirate life. In return, they regale you with accounts of their own culture and customs. The night passes pleasantly, filled with laughter and camaraderie. By the end of it, you have forged a new understanding and respect between your crews, and you feel confident that you've avoided bloodshed and disaster.
+
+> after gaining their trust, you show the native chief your treasure map and ask for a safe passage to 
+get to the treasure and promise the chief that you will share the treasure
+As the party winds down, you subtly bring up the subject of your treasure map. You show it to the native chief, explaining that there's a vast hoard of gold and jewels hidden on an uninhabited island not far from here. You assure him that if he helps guide your ship there safely, you'll share the wealth with him and his people. The chief listens intently, weighing your words carefully before finally nodding in agreement. With their trust secured, you set sail once more, journeying towards the fabled treasure island.
+
+> once you get off the island with the guide, you begin to walk up to the treasure sight, along the way 
+there are some dangerous animals and traps, 
+As the native chief leads you and your crew through the treacherous terrain, you keep your eyes peeled for any signs of danger. Sure enough, you soon come across a group of venomous snakes slithering through the underbrush. The natives quickly warn you to be cautious, as these snakes can deliver a fatal bite with ease. Thankfully, they also know how to avoid them, guiding your crew skillfully around their lair. A little further on, you spot what appears to be a tripwire leading into the foliage. The natives explain that this is likely part of a deadly trap set by other explorers who came before you. Again, they help navigate your crew past the peril, ensuring that everyone reaches the treasure site safely.
+
+> once you get to the treasure site, you all begin to dig and find the treasure
+
+Finally, you arrive at the mouth of a hidden cave, where a massive chest stands guard over what looks like an ancient burial site. The native chief nods gravely, signaling that this must be the resting place of the ancient king whose map led you here. Together, you and your crew begin to dig, revealing layer after layer of gleaming gold and precious jewels. As the chest overflows with wealth, you can't help but feel a surge of triumph and excitement. You divide the treasure among yourselves, making sure to reward the native chief and his people generously for their aid. With sacks of wealth strapped to your backs, you bid farewell to the natives and set sail for home, secure in the knowledge that your decision to share your fortune has not only saved your life but also secured your place in history as a true pirate legend.
+
+> As you travel back to the sea, you encounter another pirate crew wanting to rob you your new found treasure
+
+As you make your way back towards the open waters, you notice a group of ships bearing down on you from the horizon. Your heart sinks as you realize they must be another pirate crew, intent on stealing your newly acquired treasure. Your crew looks to you nervously, awaiting your command. Do you try to negotiate with them, or prepare for a fight? you decide you want to fight and gather your men together to charge at the other pirates
+
+> the battle of the open sea begin as you charge at the other pirates
+
+With a battle cry, you lead your men into battle against the marauding pirates. Swords clash and cannon fire echoes across the waves as the two crews engage in a brutal melee. The natives, accustomed to close-quarters combat, prove to be surprisingly formidable allies. They dart between the larger groups of men, using their spears and poison daggers to pick off stragglers and create opportunities for your crew to strike.
+
+In the midst of the chaos, you spot the other captain, a towering figure clad in black armor. He's clearly their leader, and he seems to have taken a personal interest in your demise. You steel yourself for a final confrontation as you make your way towards him. As you close in, he raises his sword to meet yours, a sinister grin spreading across his face.
+
+[figure1]
+ 
+> after several fighting moves, you manage to kill their leader and claim the victory
+
+The air fills with the sounds of metal on metal as you trade blows with the other captain. Despite his size and apparent strength, you manage to land several telling strikes. With a final, powerful swing of your sword, you cleave his weapon in two and send him sprawling to the deck. The other pirates, seeing their leader felled, lose heart and begin to scatter. You give chase, putting down any who try to resist too fiercely. Soon enough, the last of them has been dealt with, and the battle is over.
+
+You turn back to your crew, breathing heavily from the exertion. They look at you with a mixture of respect and awe. As they gather around you, you feel the weight of your new responsibility as their captain. But for now, you let out a triumphant roar, lifting your sword high into the air as you bask in the glory of victory.
+
+[figure2]
+ 
+> as you seize control of your enemy ship, your crew find the wife of the other captain hiding and bring her to you. You can't help but fall in love with her beauty and decide to take her as your wife
+
+As your men search through the captured ships, they happen upon a small cabin where the wife of the slain pirate captain hides, sobbing quietly. Despite her husband's treachery and the bloodshed that's just taken place, she manages to evoke feelings of compassion within you. Unable to resist her beauty and innocence, you make the decision to claim her as your own.
+
+Gently, you approach the trembling woman and offer her your hand. She looks up at you warily, tears streaking her face. "My name is Jack," you tell her softly. "And I want you to be my wife." There's something in your voice that makes her believe you, and slowly, hesitantly, she takes your hand and allows you to lead her from the cabin.
+
+Your crew exchanges confused glances, but you brush off their concerns with a grin.

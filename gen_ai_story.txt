@@ -1,0 +1,20 @@
+Welcome to the Vikram Betaal Story Writing Assistant!
+Enter your prompt or command (type 'vikram-betaal', 'continue', 'alternatives', 'erase and rewrite', 'suggest correction', 'generate image', or 'end' to finish): vikram-betaal 
+Story with Style:
+Vikram and Betaal were walking through the forest when they stumbled upon a mysterious old man. The old man told them that he had been cursed by a wicked sorcerer and was trapped in the forest for eternity.
+
+Enter your prompt or command (type 'vikram-betaal', 'continue', 'alternatives', 'erase and rewrite', 'suggest correction', 'generate image', or 'end' to finish): continue
+Continued Story:
+As they journeyed deeper into the forest, they encountered many dangers, including ferocious beasts and treacherous terrain. But Vikram and Betaal persevered, using their wit and cunning to overcome each obstacle.
+
+Enter your prompt or command (type 'vikram-betaal', 'continue', 'alternatives', 'erase and rewrite', 'suggest correction', 'generate image', or 'end' to finish): continue
+Continued Story:
+Finally, they reached the sorcerer's lair and engaged in a fierce battle to defeat him. With the sorcerer defeated, the curse was lifted, and the old man was freed.
+
+Enter your prompt or command (type 'vikram-betaal', 'continue', 'alternatives', 'erase and rewrite', 'suggest correction', 'generate image', or 'end' to finish): generate image
+Enter a description for the image: A dark and mystical forest, with twisted trees and glowing eyes in the distance.
+Image generated and saved as '[IMAGE]'.
+
+Enter your prompt or command (type 'vikram-betaal', 'continue', 'alternatives', 'erase and rewrite', 'suggest correction', 'generate image', or 'end' to finish): end
+Final Story:
+Vikram and Betaal were walking through the forest when they stumbled upon a mysterious old man. The old man told them that he had been cursed by a wicked sorcerer and was trapped in the forest for eternity. As they journeyed deeper into the forest, they encountered many dangers, including ferocious beasts and treacherous terrain. But Vikram and Betaal persevered, using their wit and cunning to overcome each obstacle. Finally, they reached the sorcerer's lair and engaged in a fierce battle to defeat him. With the sorcerer defeated, the curse was lifted, and the old man was freed.
